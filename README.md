@@ -25,5 +25,5 @@ Huỳnh Minh Quân | 20521789 | 20521789@gm.uit.edu.vn |
 </p>
 <a name="phancong"></a>
 **Phân công công việc**
-Công Việc |||
+Công Việc | | |
 :---| :---| :---| :---
