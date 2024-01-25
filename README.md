@@ -21,7 +21,7 @@ Họ tên | MSSV | Email | GitHub
 --- | --- | -- | --
 Huỳnh Minh Quân | 20521789 | 20521789@gm.uit.edu.vn | 
 |||
-|||
+||| 
 </p>
 <a name="phancong"></a>
 **Phân công công việc**
