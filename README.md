@@ -18,4 +18,5 @@ Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
 ### Tên nhóm: LHH
 ### Các thành viên của nhóm
 Họ tên | MSSV | Email | GitHub
+--- | --- | -- | --
 Huỳnh Minh Quân | 20521789 | 20521789@gm.uit.edu.vn | 
