@@ -1,4 +1,5 @@
-<h3> align="center" font-size= 14px;><b>Trường Đại Học Công Nghệ Thông Tin - ĐHQH TPHCM</b></h3>
+<h3 align="center" font-size= 14px;><b>Trường Đại Học Công Nghệ Thông Tin - ĐHQH TPHCM</b></h3>
+
 <p align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
@@ -19,7 +20,7 @@ Ths. Phạm Nguyễn Trường An | truonganpn@uit.edu.vn
 ### Các thành viên của nhóm
 Họ tên | MSSV | Email | GitHub
 --- | --- | -- | --
-Huỳnh Minh Quân | 20521789 | 20521789@gm.uit.edu.vn | 
+Huỳnh Minh Quân | 20521789 | 20521789@gm.uit.edu.vn | https://github.com/20521789
 |||
 ||| 
 </p>
