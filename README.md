@@ -28,3 +28,11 @@ Huỳnh Minh Quân | 20521789 | 20521789@gm.uit.edu.vn | https://github.com/2052
 **Phân công công việc**
 Công Việc | | |
 :---| :---| :---| :---
+# **BẢNG MỤC LỤC**
+1. [Giải Trình Sau Vấn Đáp](#giaitrinh)
+2. [Tổng Quan Về Đồ Án](#tongquan)
+3. [Xây Dựng Bộ Dữ Liệu](#dulieu)
+4. [Training Và Đánh Giá Model](#training)
+5. [Hướng Phát Triển Và Cải Tiến](#ungdung)
+6. [Demo mô hình](#demo)
+7. [Nguồn Tham Khảo](#thamkhao)
