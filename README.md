@@ -5,3 +5,4 @@ Nguyễn Quang Vũ - 21522801.
 ## Model  
 [Link YOLOv4](https://drive.google.com/drive/folders/1C9N4f6MMJUJbe4VDAaHZ54Me60Cg4bFB?usp=sharing)
 [Link YOLOv8n](https://drive.google.com/drive/folders/1bkkYsvS3vD2XLMvijOfX0oi-YPDbGGxK?usp=drive_link)
+[Link YOLOv5](https://drive.google.com/drive/folders/1DdB2JLCkFPAvqs9vTpbH-GkEA2EaQj8Y?usp=sharing)
